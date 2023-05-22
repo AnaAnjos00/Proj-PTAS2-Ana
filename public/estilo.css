@@ -1,8 +1,15 @@
 body {
     background-image: url("https://i.pinimg.com/originals/0f/ad/28/0fad289870489c693936a394112b07f2.jpg");
+    text-align: center;
+  font-family: "Lucida Handwriting"
   }
 
- form {
-  color: black;
-  font-family: "Copperplate";
+  div {
+    border: 1px solid white;
+    margin-top: 275px;
+    margin-right: 700px;
+    margin-left: 700px;
+    background-color: white;
+    border-radius: 30%;
   }
+
